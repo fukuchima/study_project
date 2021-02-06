@@ -1,2 +1,3 @@
 start
+method0
 end
